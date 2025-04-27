@@ -45,4 +45,4 @@ The app will match resumes against the job description and suggest the top 3 bes
 - PyPDF2
 - docx2txt
 
-## Folder Structure
+
